@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Vibe Vision",
+    "imageSrc": "projects/vibevision.jpeg",
+    "description": "A full‑stack web app that detects emotions from facial expressions—via webcam or uploaded images—and includes an AI chatbot powered by an LLM for personalized advice and emotional support.",
+    "skills": ["React", "Express", "Node","MongoDB", "Python","Flask"],
+    "demo": "https://github.com/Smriti780/Vibe-Vision",
+    "source": "https://github.com/Smriti780/Vibe-Vision"
+  },
+  {
+    "title": "CampusKart",
+    "imageSrc": "projects/campuskart.png",
+    "description": "A college‑only marketplace where students can buy, sell, donate, or borrow items within their campus community—secured by verified user accounts, role-based permissions, and built-in payment integration.",
+    "skills": ["React", "Node", "MongoDB", "Tailwind CSS","REST API"],
+    "demo": "https://campus-kart-4khc.vercel.app/",
+    "source": "https://github.com/Smriti780/Campus_Kart"
+  },
+  {
+    "title": "Twianalyzer",
+    "imageSrc": "projects/twitter.jpeg",
+    "description": "A machine learning app using K‑Nearest Neighbors and the Sentiment140 dataset to analyze tweet sentiment, featuring interactive options for filtering and sorting tweets by length and alphabetical order.",
+    "skills": ["Python", "Kaggle", "Matplotlib", "Tkinter"],
+    "demo": "https://github.com/Smriti780/TwiAnalyzer",
+    "source": "https://github.com/Smriti780/TwiAnalyzer"
+  },
+  {
+    "title": "FitTrack",
+    "imageSrc": "projects/fittrack.png",
+    "description": "A fully responsive React.js fitness web app built with Material UI and RapidAPI, offering 1,000+ exercises by muscle group—with integrated YouTube recommendations to guide users through workouts.",
+    "skills": ["React", "MaterialUI","Tailwind CSS", "Rapid API"],
+    "demo": "https://reliable-sfogliatella-85ed0e.netlify.app/",
+    "source": "https://github.com/Smriti780/FitTrack"
+  },
+  {
+    "title": "QuickCart",
+    "imageSrc": "projects/blinkit.png",
+    "description": "A full-stack Blinkit clone using React, Tailwind CSS, Node.js, Express, and MongoDB. It features a responsive UI, admin panel, secure auth, product management, Stripe payments, and dynamic cart/checkout flow.",
+    "skills": ["React", "Node", "MongoDB", "Cloudinary","Resend API"],
+    "demo": "https://quick-cart-e-commerce-k4fg.vercel.app/",
+    "source": "https://github.com/Smriti780/QuickCart_E-Commerce"
+  },
+  {
+    "title": "Weather App",
+    "imageSrc": "projects/weather.png",
+    "description": "A dynamic, responsive weather app that integrates the OpenWeather API to fetch and display real-time temperature, humidity, wind speed, and weather conditions. ",
+    "skills": ["HTML", "CSS", "JavaScript", "OpenWeather API"],
+    "demo": "https://github.com/Smriti780/Weather-App",
+    "source": "https://github.com/Smriti780/Weather-App"
+  }
+]
