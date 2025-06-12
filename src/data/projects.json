@@ -19,7 +19,7 @@
     "title": "Twianalyzer",
     "imageSrc": "projects/twitter.jpeg",
     "description": "A machine learning app using K‑Nearest Neighbors and the Sentiment140 dataset to analyze tweet sentiment, featuring interactive options for filtering and sorting tweets by length and alphabetical order.",
-    "skills": ["Python", "Kaggle", "Matplotlib", "Tkinter"],
+    "skills": ["Python", "Kaggle", "Matplotlib", "Tkinter","Machine Learning"],
     "demo": "https://github.com/Smriti780/TwiAnalyzer",
     "source": "https://github.com/Smriti780/TwiAnalyzer"
   },
