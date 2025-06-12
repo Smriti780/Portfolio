@@ -35,7 +35,7 @@
     "title": "QuickCart",
     "imageSrc": "projects/blinkit.png",
     "description": "A full-stack Blinkit clone using React, Tailwind CSS, Node.js, Express, and MongoDB. It features a responsive UI, admin panel, secure auth, product management, Stripe payments, and dynamic cart/checkout flow.",
-    "skills": ["React", "Node", "MongoDB", "Cloudinary","Resend API"],
+    "skills": ["React", "Node", "MongoDB","Express", "Cloudinary"],
     "demo": "https://quick-cart-e-commerce-k4fg.vercel.app/",
     "source": "https://github.com/Smriti780/QuickCart_E-Commerce"
   },
@@ -43,7 +43,7 @@
     "title": "Weather App",
     "imageSrc": "projects/weather.png",
     "description": "A dynamic, responsive weather app that integrates the OpenWeather API to fetch and display real-time temperature, humidity, wind speed, and weather conditions. ",
-    "skills": ["HTML", "CSS", "JavaScript","Responsive Design", "OpenWeather API"],
+    "skills": ["HTML", "CSS", "JavaScript", "OpenWeather API"],
     "demo": "https://github.com/Smriti780/Weather-App",
     "source": "https://github.com/Smriti780/Weather-App"
   }
