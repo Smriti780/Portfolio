@@ -11,7 +11,7 @@
     "title": "CampusKart",
     "imageSrc": "projects/campuskart.png",
     "description": "A college‑only marketplace where students can buy, sell, donate, or borrow items within their campus community—secured by verified user accounts, role-based permissions, and built-in payment integration.",
-    "skills": ["React", "Node", "MongoDB", "Tailwind CSS"],
+    "skills": ["React", "Node", "MongoDB","REST API", "Tailwind CSS"],
     "demo": "https://campus-kart-4khc.vercel.app/",
     "source": "https://github.com/Smriti780/Campus_Kart"
   },
