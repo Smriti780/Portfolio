@@ -21,8 +21,8 @@
 
 .description {
   margin-top: 6px;
-  font-size: 25px;
-  font-weight: 400;
+  font-size: 18px;
+  font-weight: 300;
 }
 
 .skills {
@@ -36,8 +36,8 @@
 }
 
 .skill {
-  font-size: 25px;
-  font-weight: 400;
+  font-size: 18px;
+  font-weight: 300;
   border-radius: 100px;
   background: var(--color-dark);
   padding: 2px 22px;
