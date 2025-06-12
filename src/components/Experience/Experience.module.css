@@ -38,6 +38,9 @@
   align-items: center;
   gap: 11px;
 }
+.skill:nth-child(n+9) {
+  grid-column: span 2;
+}
 
 .skillImageContainer {
   background-color: var(--color-secondary);
